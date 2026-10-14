@@ -1,6 +1,6 @@
 {
   "name": "wp-studio",
-  "version": "0.1.1",
+  "version": "1.24.0",
   "requires_local_executor": true,
   "description": "Build, design, and manage WordPress sites with WordPress Studio: create local sites with Studio's design workflow, open your Studio and WordPress.com sites from the WordPress tab, preview them, and publish to WordPress.com.",
   "author": {
